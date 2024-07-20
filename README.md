@@ -4,9 +4,6 @@ Welcome to my Data Science Projects repository! This repository contains various
 ### Table of Contents
 1. Projects
 * Lung Cancer Detection
-* Skin Cancer Detection
-* Project 3
-* Project 4
 2. Datasets
 3. Models
 
